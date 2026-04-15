@@ -1,0 +1,18 @@
+```python
+An array is a data structure used to store multiple values of the same data type in a single variable.
+
+In simple terms, an array is like a collection of elements stored in continuous memory locations, where each element can be accessed using an index (position number).
+
+Example:
+
+If you want to store marks of 5 students, instead of creating 5 separate variables, you can use an array:
+
+int marks[5] = {80, 75, 90, 85, 70};
+Here:
+
+marks is the array name
+5 is the size of the array
+Each value can be accessed using an index (starting from 0)
+marks[0] = 80
+marks[1] = 75
+```
